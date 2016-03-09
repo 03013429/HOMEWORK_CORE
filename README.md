@@ -1,0 +1,12 @@
+﻿# HOMEWORK_DOC
+  *HCC_03013429*
+ 
+  *EMAIL:hshcc95@qq.com*
+
+>THIS REPOSITORY IS USED TO STORE CORE HOMEWORK.
+==
+
+
+#_CONTENT_  
+## EMPTY
+  
